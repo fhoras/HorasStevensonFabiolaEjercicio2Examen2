@@ -1,0 +1,26 @@
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 22px;
+  color: #354259;
+  text-align: justify;
+  padding: 20px;
+}
+.divBoton {
+  width: 550px;
+  height: 100px;
+  padding: 10px;
+  padding-left: 80px;
+}
+.botonAgregar {
+  background-color: #ffb3b3;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #000000;
+  -moz-border-radius: 7px;
+  -webkit-border-radius: 7px;
+}
+.contenedor {
+  width: 550px;
+  height: 100px;
+  padding: 20px;
+}
